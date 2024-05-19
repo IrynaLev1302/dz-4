@@ -8,7 +8,7 @@ public class Number {
     }
 
     public void displaynum() {
-        System.out.printf("-" + "-" + "-" + num + "-" + "-" + "-");
+        System.out.print("-" + "-" + "-" + num + "-" + "-" + "-");
 
 
     }
